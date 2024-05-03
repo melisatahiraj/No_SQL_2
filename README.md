@@ -1,4 +1,4 @@
-# nosql-challenge-12
+# No SQL
 
 ## Requirements
 
